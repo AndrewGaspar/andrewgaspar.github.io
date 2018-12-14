@@ -4,3 +4,6 @@ description: >
   parallel programming.
 
 theme: jekyll-theme-midnight
+
+plugins:
+  - jekyll-feed
